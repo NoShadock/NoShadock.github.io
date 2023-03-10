@@ -1,2 +1,1 @@
-# NoShadock.github.io
-[(https://noshadock.github.io/)]
+# [NoShadock.github.io](https://noshadock.github.io/)
